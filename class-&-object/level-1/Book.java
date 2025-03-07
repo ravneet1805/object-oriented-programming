@@ -1,5 +1,4 @@
-// Program to Handle Book Details
-// Problem Statement: Create a Book class with attributes title, author, and price. 
+// 3. Create a Book class with attributes title, author, and price. 
 // Add a method to display the book details.
 
 public class Book {

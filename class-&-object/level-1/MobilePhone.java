@@ -1,5 +1,4 @@
-// Program to Handle Mobile Phone Details
-// Problem Statement: Create a MobilePhone class with attributes brand, model, and price. 
+// 5. Create a MobilePhone class with attributes brand, model, and price. 
 // Add a method to display all the details of the phone.
 
 public class MobilePhone {

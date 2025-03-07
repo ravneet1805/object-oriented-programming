@@ -1,5 +1,5 @@
-// Program to Compute Area of a Circle
-// Problem Statement: Create a Circle class with an attribute radius. 
+
+// 2. Create a Circle class with an attribute radius. 
 // Add methods to calculate and display the area and circumference of the circle.
 
 public class Circle {

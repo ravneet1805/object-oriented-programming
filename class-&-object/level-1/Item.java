@@ -1,5 +1,5 @@
-// Program to Track Inventory of Items
-// Problem Statement: Create an Item class with attributes itemCode, itemName, and price. 
+
+// 4. Create an Item class with attributes itemCode, itemName, and price. 
 // Add a method to display item details and calculate the total cost for a given quantity.
 
 public class Item {
